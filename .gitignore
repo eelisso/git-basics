@@ -1,0 +1,6 @@
+# Ignore Python compiled files
+*.pyc
+
+# Ignore input and output files for assignments
+*.in
+*.out
